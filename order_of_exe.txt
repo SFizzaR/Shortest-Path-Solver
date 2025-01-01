@@ -1,0 +1,4 @@
+ORDER OF EXECUTION:
+-   Run both dijkstra and bellman-ford algorithms. 
+(For fair analysis, make sure the start and end node for the same input files are kept constant)
+-   Execute compare.py for analysis graph for bellman-ford vs dijkstra time execution.
