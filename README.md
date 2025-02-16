@@ -36,7 +36,7 @@ The program compares _execution times_ for different graph sizes and structures.
 
 ## Possible Future Enhancements
 - Add support for more graph algorithms (e.g., A*).
-- - Improve visualization with Matplotlib/NetworkX.
+- Improve visualization with Matplotlib/NetworkX.
 - Allow importing graphs from files.
 
 ## Conclusion
