@@ -16,7 +16,7 @@ This project implements a shortest-path solver that compares the **Bellman-Ford*
 ## 🚀 Installation
 1. Clone the repository:  
    ```sh
-   git clone <repository-url>
+   git clone <(https://github.com/SFizzaR/Shortest-Path-Solver)>
    cd shortest-path-solver
    
 2. Run the program (first the algorithms, then compare.py):
